@@ -8755,7 +8755,7 @@ img {
 .skillcard {
   text-align: center;
   width: 100%;
-  max-width: 13%;
+  max-width: 145px;
   cursor: pointer;
 }
 .skillcarin {
@@ -8771,7 +8771,7 @@ img {
 }
 .skillcarin img {
   max-width: 60px;
-  width: 100%;  
+  width: 100%;
   transition: 0.3s;
   filter: grayscale(90%);
 }
@@ -8801,9 +8801,9 @@ img {
 .skillcard:hover .skillperc {
   color: #59c378;
 }
-.wpo-work-area .wpo-work-wrap .wpo-work-item ul li.logo img, 
+.wpo-work-area .wpo-work-wrap .wpo-work-item ul li.logo img,
 .wpo-work-area-s2 .wpo-work-wrap .wpo-work-item ul li.logo img {
-  background: #F0F7FF;
+  background: #f0f7ff;
   width: 65px;
   padding: 10px;
   border-radius: 50%;
